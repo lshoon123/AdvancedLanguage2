@@ -49,6 +49,8 @@ void main()
 						if (check2 == lenth)
 						{
 							count -= 1;
+							check2 = 0;
+							break;
 						}
 						else
 						{
